@@ -1,0 +1,9 @@
+.nav {
+  grid-area: nav;
+  background-color: paleturquoise;
+  padding: 10px;
+}
+
+.item {
+  color: aliceblue;
+}
